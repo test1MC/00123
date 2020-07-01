@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" xml:space="preserve">
     <head>
-        <link href="TableStyles/Alternate-Row-Color.css" rel="stylesheet" MadCap:stylesheetType="table" />
+        <link href="Resources/TableStyles/Alternate-Row-Color.css" rel="stylesheet" MadCap:stylesheetType="table" />
     </head>
     <body>
         <h1>砻קยด1ตว融</h1>
         <p>砻קยด2ตว融</p>
-        <table style="width: 100%;mc-table-style: url('TableStyles/Alternate-Row-Color.css');" class="TableStyle-Alternate-Row-Color" cellspacing="21">
+        <table style="width: 100%;mc-table-style: url('Resources/TableStyles/Alternate-Row-Color.css');" class="TableStyle-Alternate-Row-Color" cellspacing="21">
             <col class="TableStyle-Alternate-Row-Color-Column-Column1" style="width: 25%;" />
             <col class="TableStyle-Alternate-Row-Color-Column-Column1" style="width: 75%;" />
             <thead>
